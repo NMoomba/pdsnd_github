@@ -1,1 +1,5 @@
 .github/**
+This project uncovers bike share usage patterns. It compares the system usage between three large cities: Chicago, New York City, and Washington, DC.
+
+The project requires the use of Jupiter notebook in Python
+The files required are bikeshare.py, chicago.csv, washignton.csv, newyorkcity.csv
